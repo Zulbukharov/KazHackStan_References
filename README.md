@@ -1,5 +1,3 @@
-![KazHackStan](https://github.com/Zulbukharov/KazHackStan_References/blob/master/img/download.jpeg "1")
-
 ### [Инструменты]
 * [Стат анализатор php](http://rips-scanner.sourceforge.net/)
 * [Швейцарский нож](https://portswigger.net/burp)
