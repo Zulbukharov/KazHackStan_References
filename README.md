@@ -19,6 +19,7 @@
 ### [Повзламывать]
 * [ITSEC GAMES](http://www.itsecgames.com/) 
 ```
-(лучше качать готовую виртуалку, beebox, потому что многое работает только на старом софте https://sourceforge.net/projects/bwapp/files/bee-box/)
+(лучше качать готовую виртуалку, beebox, потому что многое работает только на старом софте
+https://sourceforge.net/projects/bwapp/files/bee-box/)
 ```
 * [Root-me](https://root-me.org)
