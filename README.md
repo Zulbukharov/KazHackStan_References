@@ -35,3 +35,5 @@ https://sourceforge.net/projects/bwapp/files/bee-box/)
 * [Vulnhub](https://www.vulnhub.com/)
 * [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 * [picoCTF](https://picoctf.com/)
+* [message with spaces url i dont knowhow to parse it
+url maybe with \n?](url)
