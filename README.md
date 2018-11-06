@@ -29,7 +29,6 @@
 https://sourceforge.net/projects/bwapp/files/bee-box/)
 ```
 * [Root-me](https://root-me.org)
-* [picoCTF](https://picoctf.com/)
 * [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
 * [Multi Vulnerable Virtual Machine](https://canyoupwn.me/kevgir-vulnerable-vm/)
 * [Bricks](https://sechow.com/bricks/docs/)
